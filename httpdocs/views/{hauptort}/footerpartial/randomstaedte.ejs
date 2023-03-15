@@ -1,0 +1,8 @@
+<section class="city">
+    <div class="city_link">
+        <% for(let i = 0; i < arr.length; i++) {%>
+        <a link rel="canonical"
+            href="/<%= arr[i].hauptortUrl %>/<%= keyword %>-<%= arr[i].ortUrl %>"><%= arr[i].ort %></a>
+        <% } %>
+    </div>
+</section>

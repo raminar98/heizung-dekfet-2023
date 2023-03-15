@@ -1,0 +1,2715 @@
+            body {
+                margin: 0px;
+                width: 100%;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            
+            .section_top_support {
+                height: 140px;
+                position: relative;
+                width: 100%;
+                top: 0px;
+            }
+            
+            .top_support_deco {
+                height: 140px;
+                background-color: #F5AA28;
+                position: fixed;
+                width: 100%;
+                top: 0px;
+                z-index: 3;
+            }
+            
+            h1 {
+                font-size: 60px;
+                font-weight: lighter;
+                color: #3B4656;
+                text-align: center;
+                z-index: 2;
+            }
+            
+            .haupt_seite_h1 h1 {
+                width: 700px;
+                margin-left: auto;
+                margin-right: auto;
+                position: relative;
+                top: 200px;
+                left: 0;
+            }
+            
+            .haupt_seite_h1 p {
+                position: relative;
+                z-index: 2;
+                top: 190px;
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
+                color: #3B4656;
+                font-size: 15px;
+            }
+            
+            .ueber_uns_seite_h1 h1 {
+                width: 800px;
+                margin-left: auto;
+                margin-right: auto;
+                position: relative;
+                top: 200px;
+                left: 0;
+            }
+            
+            .unter1_seite_h1 h1 {
+                width: fit-content;
+                margin-left: auto;
+                margin-right: auto;
+                position: relative;
+                top: 200px;
+                left: 0;
+            }
+            
+            .unter2_seite_h1 h1 {
+                width: fit-content;
+                margin-left: auto;
+                margin-right: auto;
+                position: relative;
+                top: 200px;
+                left: 0;
+            }
+            
+            .h1_p_under2 {
+                width: 1024px;
+                margin-right: auto;
+                margin-left: auto;
+            }
+            
+            .h1_p_under2 p {
+                text-align: center;
+                position: relative;
+                z-index: 2;
+                color: #3B4656;
+                font-size: 25px;
+                top: 200px;
+            }
+            
+            .h1_service {
+                height: 300px;
+                position: relative;
+                top: 200px;
+            }
+            
+            .ausfall_seite_h1 h1 {
+                width: 700px;
+                margin-left: auto;
+                margin-right: auto;
+                position: relative;
+                top: 200px;
+                left: 0;
+            }
+            
+            .zahlung_seite_h1 h1 {
+                width: 90%;
+                font-size: 40px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .wasserschaden_seite_h1 h1 {
+                width: 1024px;
+                font-size: 35px;
+                margin-left: auto;
+                margin-right: auto;
+                position: relative;
+                top: 200px;
+                left: 0;
+            }
+            
+            .wasserschaden_seite_h1 p {
+                font-size: 30px;
+                position: relative;
+                z-index: 2;
+                top: 250px;
+                color: #3B4656;
+                text-align: center;
+            }
+            
+            .rohrreinigung_seite_h1 h1 {
+                width: 1070px;
+                font-size: 45px;
+                font-weight: bold;
+                margin-left: auto;
+                margin-right: auto;
+                margin-bottom: 50px;
+                position: relative;
+                top: 200px;
+                left: 0;
+            }
+            
+            .rohrreinigung_seite_h1 p {
+                font-size: 30px;
+                position: relative;
+                z-index: 2;
+                top: 200px;
+                color: #3B4656;
+                text-align: center;
+                margin-bottom: 100px;
+            }
+            
+            .seite_text_haupt p {
+                font-size: 12px;
+                width: 90%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .seite_pic_haupt {
+                margin-top: 50px;
+                width: 230px;
+                margin-left: 20px;
+            }
+            
+            @media(max-width: 1023px) {
+                .haupt_seite_h1 p {
+                    width: 200px;
+                    position: relative;
+                    z-index: 2;
+                    top: 350px;
+                    text-align: left;
+                    right: 0px;
+                    color: #3B4656;
+                    font-size: 15px;
+                }
+                .wasserschaden_seite_h1 h1 {
+                    width: 50%;
+                    top: 200px;
+                    border: none;
+                    font-size: 30px;
+                    margin-left: auto;
+                    margin-right: 10px;
+                    text-align: center;
+                }
+                .wasserschaden_seite_h1 p {
+                    width: 150px;
+                    font-size: 20px;
+                    position: relative;
+                    margin-left: auto;
+                    margin-right: 100px;
+                    text-align: center;
+                    z-index: 2;
+                    top: 200px;
+                    color: #3B4656;
+                }
+                .ausfall_seite_h1 h1 {
+                    width: 45%;
+                    top: 150px;
+                    margin-right: 50px;
+                    border: none;
+                    font-size: 27px;
+                    text-align: center;
+                }
+                .unter2_seite_h1 h1 {
+                    width: 45%;
+                    top: 150px;
+                    margin-right: 10px;
+                    border: none;
+                    font-size: 30px;
+                }
+                .haupt_seite_h1 h1 {
+                    width: 45%;
+                    top: 180px;
+                    margin-right: 10px;
+                    border: none;
+                    font-size: 30px;
+                }
+                .ueber_uns_seite_h1 h1 {
+                    width: 55%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    font-size: 30px;
+                    top: 300px;
+                    margin-right: 10px;
+                }
+                .unter1_seite_h1 h1 {
+                    width: 55%;
+                    margin-left: auto;
+                    margin-right: 40px;
+                    font-size: 30px;
+                    top: 200px;
+                }
+                .h1_p p {
+                    width: 55%;
+                    margin-left: auto;
+                    margin-right: 20px;
+                    font-size: 30px;
+                }
+                .h1_p_under2 p {
+                    width: 30%;
+                    margin-left: auto;
+                    margin-right: 30px;
+                    font-size: 25px;
+                }
+                .h1_p_under2 {
+                    width: 100%;
+                }
+                .rohrreinigung_seite_h1 h1 {
+                    width: 60%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    font-size: 30px;
+                    top: 150px;
+                    margin-right: 25px;
+                }
+                .rohrreinigung_seite_h1 p {
+                    width: 55%;
+                    margin-left: auto;
+                    margin-right: 20px;
+                    font-size: 30px;
+                    top: 150px;
+                }
+            }
+            
+            @media(max-width: 640px) {
+                .wasserschaden_seite_h1 h1 {
+                    width: 50%;
+                    top: 200px;
+                    border: none;
+                    font-size: 30px;
+                    margin-left: auto;
+                    margin-right: 10%;
+                    text-align: center;
+                }
+                .wasserschaden_seite_h1 p {
+                    width: 150px;
+                    font-size: 20px;
+                    position: relative;
+                    margin-left: auto;
+                    margin-right: 15%;
+                    text-align: center;
+                    z-index: 2;
+                    top: 200px;
+                    color: #3B4656;
+                }
+            }
+            
+            @media(max-width: 400px) {
+                .wasserschaden_seite_h1 h1 {
+                    width: 90%;
+                    top: 200px;
+                    border: none;
+                    font-size: 30px;
+                    margin-left: auto;
+                    margin-right: 50px;
+                    text-align: right;
+                }
+                .wasserschaden_seite_h1 p {
+                    width: 150px;
+                    font-size: 20px;
+                    position: relative;
+                    margin-left: auto;
+                    margin-right: 50px;
+                    text-align: right;
+                    z-index: 2;
+                    top: 200px;
+                    color: #3B4656;
+                }
+            }
+            
+            h2 {
+                font-weight: lighter;
+                margin: 0px;
+                color: #3B4656;
+            }
+            
+            h3 {
+                font-weight: lighter;
+                color: #3B4656;
+            }
+            
+            h4 {
+                font-weight: lighter;
+                font-size: 25px;
+                color: #3B4656;
+            }
+            
+            @media(max-width:1023px) {
+                h4 {
+                    width: 90%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    font-weight: lighter;
+                    font-size: 25px;
+                }
+            }
+            
+            p {
+                text-align: left;
+            }
+            
+            orange {
+                color: #F5AA28;
+            }
+            /*SEARCH*/
+            
+            .search_leistung {
+                margin-top: 10px;
+            }
+            
+            .output_search {
+                display: none;
+                height: auto;
+                max-width: 100%;
+                background-color: #3B4656;
+                color: white;
+                position: absolute;
+                z-index: 3;
+                top: 550px;
+                right: 450px;
+            }
+            /**/
+            /*====SEPARATOR====*/
+            /*====SEPARATOR====*/
+            /*====SEPARATOR====*/
+            
+            .separator {
+                position: relative;
+                z-index: 2;
+                width: 1023px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-bottom: 10px;
+            }
+            
+            .separator_item p {
+                font-size: 25px;
+                font-weight: bold;
+                margin-top: 0px;
+                padding-top: 15px;
+                transition: .4s ease;
+                text-align: center;
+            }
+            
+            .separator_item {
+                background-color: #F5AA28;
+                text-align: center;
+                -webkit-box-shadow: black 3px 3px 5px;
+                box-shadow: black 3px 3px 5px;
+            }
+            
+            @media(max-width: 1023px) {
+                .separator {
+                    width: 100%;
+                }
+                .separator_item p {
+                    width: 80%;
+                    font-size: 15px;
+                    margin-left: auto;
+                    margin-right: auto;
+                    text-align: left;
+                }
+            }
+            
+            .selected {
+                color: #F5AA28;
+            }
+            /*====== NORMAL TITEL CONFIG =======*/
+            
+            .normal_titel_config {
+                color: #F5AA28;
+            }
+            /* ===IMGAE HIDDEN / NOt HIDDEN ====*/
+            
+            .image_hidden {
+                display: none;
+            }
+            /*=======*/
+            /*========section container1=============*/
+            /*Haupt seite*/
+            
+            .hero_oh_boy {
+                background-color: rgba(255, 255, 255, 0.534);
+                z-index: 1;
+                position: absolute;
+                height: 380px;
+                width: 100%;
+                top: 200px;
+            }
+            
+            .button_hero_haupt {
+                border: none;
+                border-radius: 5px;
+                width: auto;
+                padding: 0px 30px 0px 30px;
+                height: 57px;
+                background-color: #3B4656;
+                color: #f1f1f1;
+                position: relative;
+                z-index: 3;
+                margin-left: auto;
+                margin-right: auto;
+                top: 250px;
+                font-size: 30px;
+                cursor: pointer;
+                box-shadow: #3b465652 5px 5px;
+            }
+            
+            .button_hero_haupt:hover {
+                transform: translate(-5px, -5px);
+                box-shadow: #3b465652 10px 10px;
+            }
+            
+            .button_hero_haupt:active {
+                transform: translate(0px, 0px);
+                box-shadow: #3b465652 5px 5px;
+            }
+            
+            @media(max-width:1023px) {
+                .button_hero_haupt {
+                    display: none;
+                }
+                .hero_oh_boy {
+                    height: 770px;
+                    top: 0px;
+                    width: 100%;
+                }
+            }
+            
+            .tel_icon_top {
+                max-width: 25px;
+            }
+            /*menu + telefon(stiky)*/
+            /*section - nav1*/
+            /*====== telefon_design =======*/
+            /*====== telefon_design =======*/
+            /*====== telefon_design =======*/
+            /*====== telefon_design =======*/
+            
+            .telefon_design {
+                border-radius: 5px;
+                width: 300px;
+                padding: 5px;
+                background-color: #3B4656;
+                color: #F5AA28;
+                text-decoration: none;
+                font-weight: bold;
+                font-size: 25px;
+                height: 35px;
+                text-align: center;
+                margin-left: auto;
+                transition: .4s ease;
+            }
+            
+            .telefon_design:hover {
+                background-color: #F5AA28;
+                color: #3B4656;
+                border: #3B4656 solid 2px;
+            }
+            
+            .not_top {
+                border-radius: 8px;
+                padding: 10px 24px 12px 24px;
+                background-color: #3B4656;
+                color: #F5AA28;
+                text-decoration: none;
+                font-weight: bold;
+                font-size: 30px;
+                height: 35px;
+                text-align: center;
+                transition: .4s ease;
+            }
+            
+            .not_top:hover {
+                color: #3B4656;
+                background-color: #F5AA28;
+                border: #3B4656 solid 2px;
+            }
+            
+            .fa fa-phone {
+                height: 30px;
+            }
+            /*====*/
+            /*====*/
+            /*====*/
+            /*====CONTAINER 1===*/
+            /*==MENÜ===*/
+            
+            .container1 {
+                position: fixed;
+                top: 0px;
+                z-index: 4;
+                background-color: #3B4656;
+                height: 100px;
+                width: 100%;
+            }
+            
+            .logo img {
+                max-width: 250px;
+                position: absolute;
+                left: 10px;
+                top: 20px;
+            }
+            
+            .menu_top {
+                position: fixed;
+                z-index: 5;
+                right: 2px;
+                top: 30px;
+            }
+            
+            .menu_top a {
+                float: right;
+                text-decoration: none;
+                color: #c0d2ec;
+                padding: 0px 20px 0px 20px;
+                margin-top: 10px;
+            }
+            
+            .menu_top a:hover {
+                background-image: linear-gradient(to right, #3B4656, #F5AA28, #3B4656);
+                background-size: 200%;
+                animation-name: underline;
+                animation-duration: 1s;
+            }
+            
+            .tel_top_bar {
+                text-decoration: none;
+                color: #c0d2ec;
+                font-size: 25px;
+                position: absolute;
+                z-index: 4;
+                top: 20px;
+                right: 47%;
+                transition: .2s ease;
+            }
+            
+            .mail_top_bar {
+                font-family: Arial, Helvetica, sans-serif;
+                text-decoration: none;
+                color: #c0d2ec;
+                font-size: 25px;
+                position: absolute;
+                z-index: 4;
+                top: 45px;
+                right: 45%;
+                transition: .2s ease;
+            }
+            
+            .tel_top a:hover {
+                color: #F5AA28;
+                transform: translate(-2px, -2px);
+                transition: .1s ease;
+            }
+            
+            .tel_top a:active {
+                transform: translate(0px, 0px);
+            }
+            /*search*/
+            
+            .search_maschine {
+                width: 550px;
+                margin-left: auto;
+                margin-right: auto;
+                display: flex;
+            }
+            
+            .search_maschine input {
+                font-size: 30px;
+                text-align: center;
+            }
+            
+            .search_leistung_unter {
+                display: none;
+                position: relative;
+                top: 250px;
+                margin-left: auto;
+                margin-right: auto;
+                z-index: 3;
+                height: 55px;
+                width: 210px;
+                border-radius: 5px;
+                border: none;
+                box-shadow: #3b465652 5px 5px;
+            }
+            
+            @media(max-width:2180px) {
+                .tel_top_bar {
+                    right: 45%;
+                }
+                .mail_top_bar {
+                    right: 43%;
+                }
+            }
+            
+            @media(max-width:1805px) {
+                .tel_top_bar {
+                    right: 43%;
+                }
+                .mail_top_bar {
+                    right: 40%;
+                }
+            }
+            
+            @media(max-width:1024px) {
+                .tel_top_bar {
+                    display: none;
+                    transition: .2s ease;
+                }
+                .mail_top_bar {
+                    display: none;
+                    transition: .2s ease;
+                }
+                .search_maschine {
+                    width: 100%;
+                }
+                .search_leistung_unter {
+                    display: block;
+                    position: fixed;
+                    width: 100%;
+                    height: 37px;
+                    top: 100px;
+                    right: 0px;
+                    left: 0px;
+                }
+            }
+            /*leistung*/
+            /**/
+            
+            @keyframes underline {
+                0% {
+                    background-position: right;
+                }
+                50% {
+                    background-position: center;
+                }
+                100% {
+                    background-position: left;
+                }
+            }
+            /*=== Hidden Einstellung ===*/
+            
+            @media(max-width: 1023px) {
+                .menu_hidden {
+                    height: 66px;
+                    width: 66px;
+                    background-image: url(../icon/menu_open.png);
+                    background-repeat: no-repeat;
+                    background-size: 66px 66px;
+                    position: absolute;
+                    top: 20px;
+                    border-radius: 10px;
+                    right: 0px;
+                    z-index: 15;
+                }
+                .menu_top {
+                    display: flex;
+                    top: 140px;
+                    right: 0px;
+                    width: 150px;
+                    background-color: #3B4656;
+                    padding: 10px 0px 10px 0px;
+                }
+                .menu_top a {
+                    float: left;
+                }
+                .menu_top_no_display {
+                    display: none;
+                }
+                .menu_top_display {
+                    display: block;
+                    display: flex;
+                    flex-direction: column-reverse;
+                }
+            }
+            /*search maschine*/
+            
+            @media(max-width: 1023px) {}
+            /**/
+            /*======= MENU ENDE ========*/
+            /*========section container2=============*/
+            /*Hero Banner */
+            
+            .container2 {
+                margin-left: auto;
+                margin-right: auto;
+                background-image: url(../pic/hero_heizung_defekt.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: 10% 30%;
+                height: 700px;
+                padding-top: 20px;
+                width: 100%;
+            }
+            
+            .container2 img {
+                position: relative;
+                width: 100%;
+                z-index: -2;
+            }
+            /*Haupt Seite*/
+            
+            .haupt_hero_leistung_display {
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
+                display: flex;
+            }
+            
+            .haupt_hero_leistung_display a {
+                text-decoration: none;
+                column-gap: 20px;
+                margin-left: 10px;
+            }
+            
+            .haupt_hero_leistung_display a:hover {}
+            
+            .haupt_hero_leistung_display p {
+                width: 150px;
+                padding: 10px 0px;
+                color: white;
+                font-size: 18px;
+                background-color: #F5AA28;
+                border: #303030 solid 2px;
+                border-radius: 3px;
+                text-align: center;
+            }
+            
+            @media(max-width: 1023px) {
+                .container2 {
+                    background-image: url(../pic/hero_heizung_defekt2.jpg);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-position: 30%, 50%;
+                    width: 100%;
+                }
+            }
+            /*Hero Warum*/
+            
+            .container2_warum {
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+                background-image: url(../pic/heizung_defekt_warum_fallt_hero.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: 50% 30%;
+                height: 800px;
+                padding-top: 20px;
+            }
+            
+            .container2_warum img {
+                position: relative;
+                width: 100%;
+                z-index: -2;
+            }
+            
+            .container2_wasser {
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+                background-image: url(../pic/hero_heizung_wasserschaden.jpg);
+                background-repeat: no-repeat;
+                background-size: 130%;
+                background-position: 100% 10%;
+                height: 800px;
+                padding-top: 20px;
+            }
+            
+            .container2_wasser img {
+                position: relative;
+                width: 100%;
+                z-index: -2;
+            }
+            
+            .h1_p {
+                width: 100%;
+                position: absolute;
+                top: 350px;
+                z-index: 3;
+            }
+            
+            .h1_p p {
+                text-align: center;
+                color: #3B4656;
+                font-size: 25px;
+            }
+            
+            @media(max-width:1675px) {
+                .container2_wasser {
+                    background-image: url(../pic/hero_heizung_wasserschaden.jpg);
+                    background-repeat: no-repeat;
+                    background-size: 140%;
+                    background-position: 100% 0%;
+                    height: 700px;
+                    padding-top: 20px;
+                    transition: .4s ease;
+                }
+            }
+            
+            @media(max-width: 1023px) {
+                .container2_warum {
+                    width: auto;
+                    height: 500px;
+                    background-image: url(../pic/heizung_defekt_warum_fallt_hero_small.jpg);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-position: 30%, 50%;
+                }
+                .container2_wasser {
+                    background-size: cover;
+                    background-position: 80%, 20%;
+                }
+            }
+            
+            @media(max-width: 700px) {
+                .container2_wasser {
+                    width: auto;
+                    background-size: cover;
+                    background-position: 60%, 90%;
+                }
+            }
+            /*==========setion Container3=======*/
+            /*Infos 1*/
+            
+            .container3 {
+                width: 1023px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .cont3_lesitung_config {
+                color: #3B4656;
+                display: flex;
+                height: auto;
+                padding: 10px;
+            }
+            
+            .cont3_lesitung_config img {
+                height: 260px;
+                margin-right: 10px;
+                margin-top: 30px;
+            }
+            
+            .cont3_leistung_ausfall {
+                color: #3B4656;
+                display: flex;
+                height: auto;
+                padding: 10px;
+                border-radius: 0px 0px 20px 20px;
+                text-align: justify;
+            }
+            
+            .cont3_leistung_ausfall img {
+                width: 300px;
+                height: auto;
+                object-fit: cover;
+                margin-top: 25px;
+            }
+            
+            .cont3_text {
+                padding: 10px;
+                width: 520px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .cont3_text p {
+                line-height: 23px;
+            }
+            
+            .grid_item3 {
+                padding-top: 20px;
+                text-decoration: none;
+                color: #F5AA28;
+                opacity: +1;
+                font-size: 18px;
+            }
+            
+            .small_intro_wasserschaden {
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+                background-color: #f1f1f1;
+                padding: 10px 0px 2px 0px;
+                box-shadow: #3B4656 2px 2px 10px;
+                margin-bottom: 10px;
+            }
+            
+            .small_intro_wasserschaden p {
+                width: 90%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            @media(max-width: 1023px) {
+                .small_intro_wasserschaden {
+                    width: 100%;
+                }
+                .cont3_leistung_ausfall {
+                    flex-direction: column;
+                }
+                .cont3_leistung_ausfall img {
+                    width: 90%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .container3 {
+                    width: 100%;
+                }
+                .cont3_lesitung_config {
+                    flex-direction: column;
+                    height: auto;
+                }
+                .cont3_lesitung_config img {
+                    height: 160px;
+                    object-position: -50% 40%;
+                    object-fit: cover;
+                }
+                .cont3_text {
+                    width: 100%;
+                    padding: 0px;
+                }
+            }
+            /*========Section Container4=======*/
+            /*Info1*/
+            
+            .container4_info1 {
+                background-color: white;
+                padding: 0%;
+                margin: 0%;
+            }
+            
+            .cont4_background_mittel {
+                padding-top: 0px;
+                padding-bottom: 0px;
+            }
+            
+            .grid_item4_titel {
+                text-align: center;
+                margin-top: 20px;
+            }
+            
+            .grid_item4 {
+                width: 970px;
+                margin-left: auto;
+                margin-right: auto;
+                display: flex;
+            }
+            
+            .grid_item4_teme1 {
+                width: 700px;
+            }
+            
+            .grid_item4_teme1 img {
+                height: 160px;
+            }
+            
+            .teme1_text1 p {
+                width: 340px;
+                margin: 0px 10px 0px 15px;
+                line-height: 18px;
+            }
+            
+            .grid_item4_korrrektur {
+                color: #3B4656;
+                font-size: 14px;
+            }
+            /*Heizungsausfall*/
+            
+            .grid_item4_teme1_heizung_ausfall h2 {
+                font-size: 20px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+            }
+            
+            .grid_item4_teme1_heizung_ausfall {
+                width: 700px;
+            }
+            
+            .grid_item4_teme1_heizung_ausfall p {
+                margin: 0px 10px 20px 15px;
+                max-width: 700px;
+            }
+            
+            .cont3_text_2te_config p {
+                width: 920px;
+                margin-left: 10px;
+                margin-top: 10px;
+                margin-bottom: 50px;
+                text-align: left;
+            }
+            /**/
+            
+            .teme1_text2 {
+                margin: 0px 10px 0px 0px;
+            }
+            
+            .grid_item4_teme2 {
+                width: 690px;
+                margin-right: 10px;
+            }
+            
+            .grid_item4_teme2 h2 {
+                margin-top: 20px;
+            }
+            
+            .grid_item4_teme2,
+            .grid_item4_teme1 {
+                color: #3B4656;
+            }
+            
+            .liste_li {
+                width: 90%;
+                font-size: 14px;
+            }
+            
+            .liste_lo {
+                width: 85%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .liste_970 {
+                width: 970px;
+            }
+            
+            .liste_under_sub {
+                margin-left: 0px;
+            }
+            
+            @media(max-width:1023px) {
+                .liste_970 {
+                    width: 85%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+            
+            .liste_font {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            
+            .liste_small_title {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 16px;
+            }
+            
+            .teme1_text3 p {
+                margin: 0px 0px 0px 0px;
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .grid_item4_teme1_sub1 {
+                display: flex;
+            }
+            
+            .grid_item4_teme1_sub1 img {
+                width: 230px;
+                object-fit: cover;
+                object-position: 100% 10%;
+                margin-left: 0px;
+                margin-right: 50px;
+            }
+            
+            .grid_item4_img_text1 {
+                display: flex;
+            }
+            
+            .grid_item4_img_text1 img {
+                height: 150px;
+                margin-top: 10px;
+                margin-left: 0px;
+                margin-right: 60px;
+            }
+            
+            .grid_item4_img_text1 p {
+                margin: 0px 0px 0px 30px;
+            }
+            
+            #item4_titel_config {
+                width: 970px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            #item4_titel_config_zahlung {
+                width: 970px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .stage1_titel {
+                margin-top: 3px;
+                color: #3B4656;
+                width: 100%;
+                padding-top: 5px;
+                padding-bottom: 5px;
+            }
+            
+            .stage1_titel_warum {
+                max-width: 100%;
+                margin-top: 50px;
+                margin-bottom: 50px;
+            }
+            
+            .stage1_titel_ueber_uns {
+                width: 90%;
+                margin: 50px auto 20px 10px;
+            }
+            
+            .normal_titel_config {
+                text-align: center;
+                color: #3B4656;
+            }
+            
+            .grid_item4 p {
+                font-size: 14px;
+                color: #3B4656;
+                line-height: 18px;
+                width: 95%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .grid_item4_teme3_stage3 h3 {
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 19px;
+                color: #3B4656;
+            }
+            
+            .grid_item4_teme3_stage3 p {
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .grid_item4_teme4_stage3 h2 {
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 23px;
+                color: #3B4656;
+                margin-top: 20px;
+            }
+            
+            .grid_item4_teme4_stage3 h3 {
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 23px;
+                color: #3B4656;
+                margin-top: 20px;
+            }
+            
+            .grid_item4_teme4_stage3 h4 {
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 17px;
+                color: #3B4656;
+            }
+            
+            .grid_item4_teme4_stage3 a {
+                width: 50%;
+                margin-left: auto;
+                margin-right: auto;
+                text-decoration: none;
+                color: #F5AA28;
+            }
+            
+            .grid_item4_teme4_stage3_korrektur h2 {
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 23px;
+                color: #3B4656;
+                margin-top: 20px;
+                text-align: center;
+            }
+            
+            .grid_item4_teme4_stage3_korrektur h3 {
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 23px;
+                color: #3B4656;
+                margin-top: 20px;
+                text-align: center;
+            }
+            
+            .grid_item4_teme4_stage3_korrektur h4 {
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 23px;
+                color: #3B4656;
+                margin-top: 20px;
+                text-align: center;
+            }
+            
+            .korrektur_separator {
+                margin-top: 50px;
+                border-top: #F5AA28 solid 5px;
+            }
+            
+            .grid_item4_teme3_korrektur {
+                margin-top: 50px;
+                border-top: #F5AA28 solid 5px;
+            }
+            /*Seiute Zeule*/
+            /*ul lo config under rohrreinigung*/
+            
+            .unter_seite_liste ul {
+                display: flex;
+                flex-direction: column;
+                font-size: 15px;
+            }
+            /**/
+            
+            .cont4_seite1 {
+                background-color: #c0d2ec;
+                width: 270px;
+                height: auto;
+            }
+            
+            .cont4_display_ueber_uns {
+                padding: 20px 0px 0px 0px;
+                margin: 0%;
+                background-color: #c0d2ec;
+                width: 270px;
+            }
+            
+            .seite_leistung {
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+                display: flex;
+                flex-direction: column;
+                row-gap: 20px;
+            }
+            
+            .seite_leistung a {
+                text-decoration: none;
+                color: #3B4656;
+                transition: .4s ease;
+            }
+            
+            .seite_leistung a:hover {
+                transform: translate(-10px, -10px);
+                color: #F5AA28;
+                border-bottom: #F5AA28 solid 1px;
+            }
+            
+            .seite_leistung_korrektur {
+                margin-top: 20px;
+            }
+            
+            .seite1_part2 p {
+                margin: 50px 1px 0px 10px;
+                font-size: 25px;
+                margin-bottom: 0%;
+            }
+            
+            .img_text2 a {
+                text-decoration: none;
+                text-align: center;
+            }
+            
+            .img_text2 p {
+                font-size: 25px;
+                line-height: 30px;
+                margin-top: 20px;
+            }
+            
+            .cont4_img_line1 {
+                display: flex;
+                padding-left: 10px;
+                width: 960px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .cont4_img_line1_haupt {
+                display: flex;
+                padding-left: 10px;
+                width: 690px;
+                margin-right: auto;
+                margin-left: auto;
+            }
+            
+            .cont4_img_line1 img {
+                height: 130px;
+                margin-left: 30px;
+                margin-right: 0px;
+            }
+            
+            .cont4_img_line1_haupt img {
+                height: 130px;
+                margin-right: 0px;
+            }
+            
+            .cont4_img_line1_haupt .img2,
+            .cont4_img_line1_haupt .img3,
+            .cont4_img_line1_haupt .img4 {
+                height: 130px;
+                margin-right: 0px;
+                margin-left: 25px;
+            }
+            
+            .seite1_part3 {
+                text-align: center;
+                padding-top: 30px;
+            }
+            
+            .seite1_part3 p {
+                text-align: left;
+                margin: 25px 15px 0px 15px;
+            }
+            
+            .cont4_img_line1_block {
+                width: 700px;
+            }
+            
+            .wasserschaden_seite_korrektur1 {
+                width: 200px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .wasserschaden_seite_korrektur1 a {
+                text-decoration: none;
+                color: #3B4656;
+                font-size: 20px;
+            }
+            
+            .seite_tel {
+                border-radius: 5px;
+                padding: 5px 15px 6px 15px;
+                background-color: #3B4656;
+                color: #F5AA28;
+                text-decoration: none;
+                font-weight: bold;
+                font-size: 21px;
+                margin-left: 13px;
+                height: 35px;
+                text-align: center;
+                transition: .4s ease;
+            }
+            
+            .seite_tel:hover {
+                color: #3B4656;
+                background-color: #F5AA28;
+                border: #3B4656 solid 2px;
+            }
+            
+            .bewerbung {
+                position: relative;
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .bewerbung_config_under img {
+                transform: translate(0px, -10px);
+            }
+            
+            .bewerbung_config img {
+                transform: translate(10px, -10px);
+            }
+            
+            .bewerbung_config img:hover {
+                transform: translate(20px, -20px);
+            }
+            
+            .bewerbung_config_under img:hover {
+                transform: translate(20px, -20px);
+            }
+            
+            .bewerbung_config img:active {
+                transform: translate(10px, -10px);
+            }
+            
+            .bewerbung_config_under img:active {
+                transform: translate(10px, -10px);
+            }
+            
+            .bewergun_info_config {
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .bewergun_info_config a {
+                text-decoration: none;
+                color: #3B4656;
+                margin-right: auto;
+                margin-left: auto;
+                padding-bottom: 20px;
+            }
+            
+            .open_service:active {
+                color: black;
+            }
+            
+            .bewergun_info_config a:hover {
+                color: black;
+                border-bottom: black solid 1px;
+            }
+            
+            .bewerbung_under2 {
+                margin-bottom: 50px;
+            }
+            
+            .under_sub_title {
+                font-weight: bold;
+                margin-top: 20px;
+            }
+            
+            @media(max-width:1023px) {
+                .grid_item4_img_text1 p {
+                    margin: 0px auto 0px auto;
+                    width: 90%;
+                }
+                .grid_item4_teme4_stage3_korrektur h2 {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    font-size: 23px;
+                    color: #3B4656;
+                    margin-top: 20px;
+                    text-align: center;
+                }
+                .grid_item4_teme4_stage3_korrektur h3 {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    font-size: 23px;
+                    color: #3B4656;
+                    margin-top: 20px;
+                    text-align: center;
+                }
+                .grid_item4_teme4_stage3_korrektur h4 {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    font-size: 23px;
+                    color: #3B4656;
+                    margin-top: 20px;
+                    text-align: center;
+                }
+                .cont3_text_2te_config p {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .cont4_display_config {
+                    background-color: transparent;
+                    position: absolute;
+                    z-index: 3;
+                    width: 280px;
+                    top: 300px;
+                    right: 30px;
+                }
+                .cont4_display_config2 {
+                    background-color: transparent;
+                    position: absolute;
+                    z-index: 3;
+                    width: 280px;
+                    top: 490px;
+                    right: 30px;
+                }
+                .close_service {
+                    position: fixed;
+                    z-index: 3;
+                    top: 140px;
+                    right: 146px;
+                    background-color: #3B4656;
+                    height: 400px;
+                    width: 180px;
+                }
+                .seite_leistung {
+                    width: 100%;
+                    text-align: right;
+                }
+                .seite_leistung_korrektur {
+                    margin-bottom: 0px;
+                }
+                .seite1_part3 {
+                    padding: 20px 0px 20px 0px;
+                }
+                .seite1_part3 p {
+                    text-align: left;
+                    margin: 25px 0px 20px 10px;
+                    padding: 0px 0px 0px 0px;
+                }
+                .bewerbung {
+                    width: 300px;
+                    padding-top: 20px;
+                }
+                .unter1_display_config {
+                    display: none;
+                }
+            }
+            
+            @media(max-width:1023px) {
+                .seite_leistung {
+                    display: none;
+                }
+            }
+            
+            @media(max-width:600px) {
+                .bewerbung {
+                    width: 280px;
+                }
+            }
+            /*=====KONTAKT=== container4 ===*/
+            
+            .kontakt_korrektur {
+                width: 275px;
+            }
+            
+            .kontakt_korrektur_haupt {
+                width: 270px;
+            }
+            
+            .kontakt p {
+                margin: 20px 0px 10px 25px;
+                font-size: 17px;
+            }
+            
+            .kontakt_form {
+                width: 200px;
+                padding: 9px 10px;
+                margin: 7px 0px 0px 25px;
+                border-radius: 5px;
+                font-weight: lighter;
+                border: #3B4656 solid 1px;
+            }
+            
+            .kontakt_text_famili::placeholder {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            
+            .cont4_seite1 button {
+                width: 100px;
+                background-color: #F5AA28;
+                border-radius: 5px;
+                border: #F5AA28 solid 1px;
+                font-weight: lighter;
+                font-size: 13px;
+                text-align: center;
+                padding: 2px 0px;
+                margin: 10px 0px 0px 10px;
+                transition: .4s ease;
+            }
+            
+            .button_platz {
+                margin: 0px 0px 0px 20px;
+            }
+            
+            .cont4_seite1 button:hover {
+                background-color: #3B4656;
+                color: #F5AA28;
+                font-size: 14px;
+            }
+            /*    ENDE KONTAKT  */
+            /*===*logo mittel seite ===*/
+            
+            .logo_mittle {
+                width: 270px;
+            }
+            
+            .logo_mittle_korrektur {
+                padding-top: 20px;
+            }
+            
+            .logo_mittle img {
+                height: auto;
+                max-width: 220px;
+                padding: 40px 0px 40px 10px;
+            }
+            
+            .grid_item4_teme1_stage3 {
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 20px;
+                padding: 0px 5px 30px 15px;
+                line-height: 18px;
+                background-color: #F5AA28;
+                color: #3B4656;
+            }
+            
+            .grid_item4_teme1_stage3 p {
+                margin: 15px 15px 0px 0px
+            }
+            
+            .grid_item4_stage3_h3_img {
+                display: flex;
+            }
+            
+            .grid_item4_stage3_h3_img h3 {
+                margin-left: 100px;
+                margin-top: 35px
+            }
+            
+            .grid_item4_stage3_h3_img img {
+                max-height: 60px;
+                margin-top: 20px;
+                margin-left: 90px;
+            }
+            
+            .text_support_text {
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .ueberuns_pic_korrekt {
+                width: 150px;
+                margin-top: 20px;
+                margin-left: 30px;
+            }
+            
+            .ueberuns_pic_korrekt:hover {
+                transform: scale( 1.1, 1.1);
+                transition: 0.2s ease;
+            }
+            
+            .leistungen_pic_korrekt {
+                width: 150px;
+                margin-top: 50px;
+                margin-left: 30px;
+                box-shadow: #303030 2px 2px;
+            }
+            
+            .leistungen_pic_korrekt:hover {
+                transform: scale( 1.1, 1.1);
+                transition: 0.2s ease;
+            }
+            
+            .img_seite_hnort1 {
+                width: 200px;
+                margin: 100px 0px 0px 20px;
+            }
+            /*ende*/
+            
+            @media(max-width: 1023px) {
+                .kontakt p {
+                    margin: 20px 0px 10px 0px;
+                    font-size: 17px;
+                    text-align: center;
+                }
+                .seite1_part2 {
+                    display: none;
+                }
+                .cont4_seite1 {
+                    width: 100%;
+                }
+                .grid_item4 {
+                    flex-direction: column;
+                    width: 100%;
+                }
+                #item4_titel_config_zahlung {
+                    width: 100%;
+                }
+                #item4_titel_config {
+                    width: 100%;
+                }
+                .grid_item4_teme1,
+                .grid_item4_teme2 {
+                    width: 90%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                #background_1 {
+                    background-color: #F5AA28;
+                }
+                .stage1_titel {
+                    text-align: left;
+                    padding: 10px;
+                    width: 80%;
+                }
+                .grid_item4_teme1_stage3 {
+                    width: 100%;
+                    padding: 0px 0px 0px 0px;
+                }
+                .cont4_img_line1_haupt .img2,
+                .cont4_img_line1_haupt .img3,
+                .cont4_img_line1_haupt .img4 {
+                    display: none;
+                }
+                .cont4_img_line1 .img2,
+                .cont4_img_line1 .img3,
+                .cont4_img_line1 .img4 {
+                    display: none;
+                }
+                .cont4_img_line1 {
+                    margin-top: 10px;
+                    padding-left: 0px;
+                }
+                .cont4_img_line1_haupt {
+                    margin-top: 0px;
+                    width: 95%;
+                }
+                .cont4_img_line1 img {
+                    width: 100%;
+                    height: 160px;
+                    object-position: -50% 35%;
+                    object-fit: cover;
+                    margin-left: 0px;
+                }
+                .cont4_img_line1_haupt img {
+                    width: 95%;
+                    height: 160px;
+                    object-position: -50% 35%;
+                    object-fit: cover;
+                    margin-left: 0px;
+                }
+                .cont4_img_line1_block {
+                    width: 100%;
+                }
+                .kontakt_form {
+                    width: 500px;
+                }
+                .cont4_seite1 {
+                    text-align: center;
+                    padding-bottom: 10px;
+                }
+                .cont4_seite1 button {
+                    padding: 10px 2px 10px 2px;
+                }
+                .kontakt_gestalten textarea {
+                    height: 70px;
+                    padding: 0px 10px;
+                }
+                .kontakt_korrektur {
+                    width: 100%;
+                    margin: 0px;
+                }
+                .grid_item4_teme1_heizung_ausfall {
+                    width: 100%;
+                }
+                .cont4_display_ueber_uns {
+                    display: none;
+                }
+                .text_support {
+                    position: relative;
+                    width: 100%;
+                    height: 400px;
+                }
+                .h1_service {
+                    width: 100%;
+                    margin-top: auto;
+                    margin-bottom: auto;
+                    font-size: 40px;
+                }
+                .h2_service {
+                    width: 100%;
+                    margin-top: auto;
+                    margin-bottom: auto;
+                }
+                .h3_service {
+                    width: 100%;
+                    margin-top: auto;
+                    margin-bottom: auto;
+                }
+                .h4_service {
+                    width: 100%;
+                    margin-top: auto;
+                    margin-bottom: auto;
+                    font-size: 20px;
+                }
+                .text_support_text {
+                    width: 100%;
+                    margin-top: auto;
+                    margin-bottom: auto;
+                }
+            }
+            
+            @media(max-width:600px) {
+                .kontakt_form {
+                    width: 80%;
+                }
+                .grid_item4_img_text1 {
+                    flex-direction: column;
+                }
+                .grid_item4_img_text1 img {
+                    height: auto;
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .grid_item4_teme1_sub1 {
+                    flex-direction: column;
+                }
+                .grid_item4_teme1_sub1 img {
+                    height: auto;
+                    width: 0%;
+                    margin-left: 10%;
+                }
+                .grid_item4_stage3_h3_img {
+                    flex-direction: column;
+                }
+                .grid_item4_stage3_h3_img img {
+                    height: auto;
+                    width: 200px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .grid_item4_stage3_h3_img h3 {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .teme1_text1 p {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .grid_item4_teme1_stage3 {
+                    margin-top: 20px;
+                    padding: 0px 0px 20px 0px;
+                    line-height: 18px;
+                    background-color: #F5AA28;
+                    width: 100%;
+                }
+                .grid_item4_teme1_stage3 p {
+                    margin: 0px 0px 0px 0px;
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+            /*Cont4 Info2*/
+            /*Cont4 Info2*/
+            /*Cont4 Info2*/
+            
+            .grid_item4_titel_info2 {
+                text-align: center;
+                background-color: #3B4656;
+            }
+            
+            .grid_item4 h3 {
+                color: #3B4656;
+            }
+            
+            #item4_titel_config_info2 {
+                background-color: #3B4656;
+                padding-top: 20px;
+                padding-bottom: 20px;
+                color: #F5AA28;
+                width: 1023px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            @media(max-width: 1023px) {
+                .grid_item4 h3 {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                #item4_titel_config_info2 {
+                    width: 100%;
+                }
+                .grid_item4 h2 {
+                    width: 85%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+            /*Warum Ausfall untere Teile*/
+            
+            .grid_item4_teme2_stage3 {
+                margin: 10px 0px 0px 0px;
+            }
+            
+            .grid_item4_teme2_stage3 p {
+                width: 100%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .grid_item4_teme2_stage3 h2 {
+                margin-bottom: 25px;
+            }
+            
+            .grid_item4_teme2_korrektur {
+                border-top: #F5AA28 solid 5px;
+            }
+            
+            .ueber_noseite_korrektur {
+                border-top: #F5AA28 solid 5px;
+                margin-top: 50px;
+            }
+            /*city division*/
+            
+            .city {
+                margin-top: 20px;
+            }
+            
+            .city_link {
+                width: 1023px;
+                margin-left: auto;
+                margin-right: auto;
+                display: grid;
+                grid-template-columns: auto auto auto;
+                padding: 20px;
+                transition: .4s ease;
+            }
+            
+            .city_link a {
+                text-decoration: none;
+                color: #808080;
+                margin-left: 30px;
+                line-height: 30px;
+                border-bottom: #808080 dotted 2px;
+                transition: .4s ease;
+            }
+            
+            .city_link a:hover {
+                transform: scale(1.1, 1.1);
+            }
+            
+            .city_link a:hover {
+                color: #0E1417;
+                border-bottom: #0E1417 dotted 2px;
+            }
+            
+            @media(max-width:1023px) {
+                .grid_item4_teme2_stage3 p {
+                    width: 90%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .cont4_img_line1 {
+                    flex-direction: column;
+                    width: 100%;
+                }
+                .cont4_img_line1 p {
+                    width: 80%;
+                }
+                .city_link {
+                    width: 100%;
+                    padding: 2px;
+                    grid-template-columns: auto auto;
+                    transition: .4s ease;
+                }
+                .city_link a {
+                    margin-left: 0px;
+                    transition: .4s ease;
+                }
+            }
+            
+            @media(max-width:600px) {
+                .city_link {
+                    width: 100%;
+                    grid-template-columns: auto;
+                }
+                .city_link a {
+                    text-align: center;
+                }
+            }
+            /*======city ENDE=======*/
+            /*=============*/
+            /*Extra Info*/
+            
+            .extra_info {
+                margin-top: 0px;
+                width: 970px;
+                margin-left: auto;
+                margin-right: auto;
+                display: flex;
+            }
+            
+            .extra_info_ort {
+                margin-top: 0px;
+                width: 970px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .img_display_1 {
+                width: 1024px;
+            }
+            
+            .extra_info_ort img {
+                height: 250px;
+                margin-left: 20px;
+                margin-top: 20px;
+            }
+            
+            .under_extra_info1 {
+                width: 100%;
+            }
+            
+            .under_extra_info1 h3 {
+                border-bottom: #F5AA28 solid 1px;
+                font-weight: bold;
+            }
+            
+            .under_extra_info1 h2 {
+                color: #F5AA28;
+            }
+            
+            .under_extra_info2 h3 {
+                border-bottom: #F5AA28 solid 1px;
+                font-weight: bold;
+            }
+            
+            .under_extra_info2 h2 {
+                color: #F5AA28;
+            }
+            
+            .under_extra_info1 h2,
+            .under_extra_info1 h3,
+            .under_extra_info1 p {
+                width: 100%;
+                color: #3B4656;
+            }
+            
+            .under_extra_info1 h2 {
+                margin-top: 20px;
+            }
+            
+            .under_extra_info2 h2,
+            .under_extra_info2 h3,
+            .under_extra_info2 p {
+                width: 650px;
+                color: #3B4656;
+            }
+            
+            .under_extra_info2 ul {
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .extra_back_1 {
+                background-color: #f1f1f1;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 10px;
+            }
+            
+            .extra_info_seite {
+                margin-top: 0%;
+                background-color: #c0d2ec;
+            }
+            
+            .extra_info_seite_sub1 {
+                padding-top: 10px;
+                padding-bottom: 10px;
+                width: 270px;
+                height: auto;
+                position: relative;
+            }
+            
+            .extra_info_seite_sub1 p {
+                width: 200px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .extra_info_logo img {
+                margin-left: 40px;
+            }
+            
+            .under_extra_info1_heizung h2,
+            .under_extra_info1_heizung h3,
+            .under_extra_info1_heizung p {
+                color: #3B4656;
+                text-align: justify;
+            }
+            
+            .extra_heizung_back_1 {
+                background-color: #f1f1f1;
+                padding: 10px 10px 10px 10px;
+            }
+            
+            .extra_heizung_back_1 h2,
+            .extra_heizung_back_1 h3 {
+                border-bottom: #F5AA28 solid 2px;
+            }
+            
+            .extra_heizung_back_2 {
+                background-color: #F5AA28;
+            }
+            
+            .extra_heizung_back_2 {
+                padding: 10px 10px 10px 10px;
+            }
+            
+            .extra_heizung_back_2 h2,
+            .extra_heizung_back_2 h3 {
+                border-bottom: #3B4656 dotted 2px;
+            }
+            
+            .under2_seite_leistung {
+                margin-top: 20px;
+            }
+            
+            @media(max-width:1020px) {
+                .extra_info_ort {
+                    margin-top: 0px;
+                    width: 100%;
+                }
+                .under_extra_info1_heizung h2,
+                .under_extra_info1_heizung h3,
+                .under_extra_info1_heizung p {
+                    color: #3B4656;
+                    text-align: left;
+                }
+                .display_under_none {
+                    display: none;
+                }
+                .extra_info {
+                    flex-direction: column;
+                    width: 100%;
+                }
+                .under_extra_info1 {
+                    width: 100%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .under_extra_info2 {
+                    width: 100%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .under_extra_info1 h2,
+                .under_extra_info1 h3,
+                .under_extra_info1 p,
+                .under_extra_info1 ul,
+                .under_extra_info1 li {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .extra_info ul {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+            /*container5*/
+            /*PREIS*/
+            
+            .container5 {
+                width: 970px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            #cont5_title {
+                background-color: #F5AA28;
+                padding: 5px 0px 5px 5px;
+            }
+            
+            #cont5_title:hover {
+                transform: translate(-10px, -10%);
+                box-shadow: #3B4656 5px 3px 5px;
+            }
+            
+            #cont5_title:active {
+                transform: translate(0px, 0%);
+                box-shadow: #3B4656 0px 0px 0px;
+            }
+            
+            .preis_no_display {
+                display: none;
+            }
+            
+            .preis {
+                display: block;
+            }
+            /*preis li title*/
+            
+            .preis_li_title li {
+                font-size: 20px;
+                border-bottom: #F5AA28 dotted 2px;
+            }
+            
+            @media(max-width:1023px) {
+                .container5 {
+                    width: 100%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .container5 ul {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .preis_intervention p {
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+            /*footer Telefon*/
+            
+            .telefon_footer_hidden {
+                display: none;
+            }
+            
+            @media(max-width:1020px) {
+                .telefon_footer_hidden {
+                    display: block;
+                    z-index: 99;
+                    position: fixed;
+                    bottom: 0px;
+                    right: 0px;
+                    height: 55px;
+                    width: 50%;
+                    background-color: #F5AA28;
+                    border-radius: 20px 0px 0px 0px;
+                    transition: .4s ease;
+                }
+                .telefon_footer_hidden p {
+                    text-align: center;
+                    color: #3B4656;
+                    font-weight: bold;
+                    font-size: 18px;
+                }
+                .telefon_footer_hidden a {
+                    text-decoration: none;
+                }
+            }
+            /*=============*/
+            /*====FOOTER====*/
+            
+            .footer_not_hidden {
+                background-color: #3B4656;
+                height: auto;
+                padding-top: 20px;
+                padding-bottom: 20px;
+            }
+            
+            .footer_sub {
+                width: 1023px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .footer_division {
+                display: -ms-grid;
+                display: grid;
+                -ms-grid-columns: auto auto auto auto;
+                grid-template-columns: auto auto auto auto;
+            }
+            
+            .footer_division_sub {
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .footer_sub a {
+                line-height: 20px;
+                text-decoration: none;
+                font-weight: lighter;
+                font-size: 12px;
+                margin-left: 30px;
+            }
+            
+            .footer_sub a:hover {
+                animation-name: footer_bottom_border;
+                animation-duration: .4s;
+                animation-iteration-count: 1;
+            }
+            
+            .footer_title {
+                margin-bottom: 10px;
+                color: #F5AA28;
+                border-bottom: #F5AA28 solid 1px;
+            }
+            
+            .footer_title:hover {
+                border-bottom: #F5AA28 dotted 1px;
+            }
+            
+            .footer_service {
+                color: #ffffff98;
+            }
+            
+            .footer_service:hover {
+                color: #F5AA28;
+            }
+            
+            .footer_logo {
+                width: 280px;
+                margin-left: 0px;
+            }
+            
+            .fotter_erweiterung {
+                border-top: #ffffff98 solid 1px;
+            }
+            
+            @keyframes footer_bottom_border {}
+            /*footer_hidden*/
+            
+            .footer_hidden {
+                padding-top: 50px;
+                padding-bottom: 50px;
+                display: none;
+            }
+            
+            @media(max-width: 1020px) {
+                .footer_division {
+                    margin-left: 10px;
+                    -ms-grid-columns: auto;
+                    grid-template-columns: auto;
+                }
+                .footer_logo {
+                    margin-left: 0px;
+                    width: 200px;
+                }
+                .footer_sub {
+                    width: 100%;
+                }
+            }
+            /*kontakt seite*/
+            
+            .kontakt_seite {
+                position: relative;
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+                height: auto;
+                padding: 10px 0px 10px 0px;
+                margin-top: 2 0px;
+            }
+            
+            .kontakt_seite_form {
+                width: 800px;
+                margin-left: auto;
+                margin-right: auto;
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .input_type_1 {
+                margin-top: 10px;
+                height: 60px;
+                width: 100%;
+                border: #3B4656 solid 2px;
+                font-size: 18px;
+            }
+            
+            .input_type_2 {
+                position: relative;
+                height: 100px;
+                width: 100%;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 10px;
+                border: #3B4656 solid 2px;
+                font-size: 18px;
+            }
+            
+            .input_type_1_display_box {
+                display: flex;
+                width: 800px;
+            }
+            
+            .input_1_tel {
+                margin-right: 10px;
+            }
+            
+            .kontakt_text_info {
+                margin-top: 20px;
+            }
+            
+            .kontakt_text_info p {
+                text-align: center;
+                font-size: 20px;
+            }
+            
+            .kontakt_seite_button {
+                margin-top: 10px;
+                margin-left: 30%;
+            }
+            
+            .kontakt_seite_button button {
+                border: #3B4656 solid 1px;
+                background-color: #F5AA28;
+                height: 50px;
+                width: 150px;
+                margin-left: auto;
+                margin-right: auto;
+                color: #3B4656;
+                font-size: 20px;
+            }
+            
+            .kontakt_seite_button button:hover {
+                cursor: pointer;
+                background-color: #f5aa28a4;
+            }
+            
+            .kontakt_seite_button button:active {
+                box-shadow: #3B4656 -5px -5px;
+            }
+            /*Kontakt Telefon Button*/
+            
+            .ruf_uns_an {
+                margin-top: 60px;
+                margin-bottom: 70px;
+                width: 800px;
+                margin-right: auto;
+                margin-left: auto;
+            }
+            
+            .ruf_uns_an a {
+                background-color: #F5AA28;
+                text-align: center;
+                color: #3B4656;
+                font-size: 30px;
+                width: auto;
+                height: auto;
+                padding: 50px 100px;
+                margin-left: 24%;
+                text-decoration: none;
+            }
+            
+            .ruf_uns_an a:hover {
+                cursor: pointer;
+                background-color: #f5aa28a4;
+            }
+            
+            .ruf_uns_an a:active {
+                box-shadow: #3B4656 -5px -5px;
+            }
+            
+            @media(max-width: 1023px) {
+                .kontakt_seite {
+                    width: 100%;
+                }
+            }
+            
+            @media(max-width:800px) {
+                .input_type_1_display_box {
+                    width: 100%;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .kontakt_seite_form {
+                    width: 90%;
+                }
+                .input_type_1_display_box {
+                    flex-direction: column;
+                }
+                .input_1_tel {
+                    margin-right: 0px;
+                }
+                .kontakt_seite_button button {
+                    width: 60%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    margin-top: 10px;
+                }
+                .ruf_uns_an {
+                    width: 80%;
+                }
+                .ruf_uns_an a {
+                    margin-left: 0px;
+                    padding: 20px 50px;
+                }
+            }
+            /*Datenschutz*/
+            
+            .datenschutz {
+                width: 800px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            
+            .datenschutz p {
+                color: #3B4656;
+            }
+            
+            .datenschutz_titel {
+                font-size: 30px;
+            }
+            
+            @media(max-width:800px) {
+                .datenschutz {
+                    width: 80%;
+                }
+            }
+            /*service*/
+            
+            .service_box {
+                display: flex;
+                width: 1024px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 20px;
+            }
+            
+            .service_box a {
+                text-decoration: none;
+            }
+            
+            .box_info {
+                width: 100%;
+                height: 300px;
+                margin-left: 10px;
+            }
+            
+            .box_info:hover {
+                transform: scale(1.2, 1.2);
+                transition: 0.4s ease;
+            }
+            
+            .box_info p {
+                width: 80%;
+                text-align: center;
+                color: #3B4656;
+            }
+            
+            .pic_box img {
+                width: 100%;
+                height: 200px;
+                object-fit: cover;
+                object-position: 40% 0%;
+                margin-left: auto;
+                margin-right: auto;
+                background-color: #F5AA28;
+            }
+            
+            .box_info .pic_box {
+                height: 200px;
+                width: 100%;
+                object-fit: cover;
+            }
+            
+            @media(max-width:1023px) {
+                .service_box {
+                    width: 100%;
+                    flex-direction: column;
+                    z-index: 5;
+                }
+                .pic_box img {
+                    width: 100%;
+                    height: 230px;
+                }
+                .box_info {
+                    margin-left: 0px;
+                    height: 300px;
+                }
+                .box_info p {
+                    font-size: 30px;
+                }
+            }
+            /*cookies*/
+            
+            #footer-cookie,
+            #footer-cookie * {
+                box-sizing: border-box;
+            }
+            
+            #footer-cookie {
+                position: fixed;
+                z-index: 999;
+                bottom: 0px;
+                left: 0px;
+                width: 100%;
+                height: 60px;
+                padding-left: 30px;
+                padding-right: 30px;
+                line-height: 60px;
+                background: #303030;
+                color: #fff;
+            }
+            
+            #footer-cookie a {
+                color: #fff;
+            }
+            
+            #footer-cookie #description {
+                float: left;
+            }
+            
+            #footer-cookie #accept {
+                margin-left: 20px;
+            }
+            
+            #footer-cookie #accept a {
+                border: 1px solid #fff;
+                padding: 5px 10px;
+                text-decoration: none;
+            }
+            
+            @media (max-width: 1070px) {
+                #footer-cookie {
+                    bottom: 0px;
+                    padding-top: 30px;
+                    padding-bottom: 30px;
+                    line-height: inherit;
+                    height: auto;
+                }
+                #footer-cookie #description {
+                    width: 100%;
+                }
+                #footer-cookie #accept {
+                    width: 100%;
+                    margin-top: 15px;
+                }
+                #footer-cookie #accept a {
+                    width: 200px;
+                    margin-left: auto;
+                    margin-right: auto;
+                    display: block;
+                    text-align: center;
+                }
+            }
+            
+            @media (max-width: 1010px) {
+                #footer-cookie {
+                    bottom: 100px;
+                }
+            }
+            /*ul ol li*/
+            
+            .li_font {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            /*breadcrumb*/
+            
+            .ul_breadcrumb ul {
+                width: 900px;
+            }
+            
+            .breadcrumb {
+                width: 900px;
+                margin-left: auto;
+                margin-right: auto;
+                display: flex;
+                column-gap: 25px;
+                height: 30px;
+                background-color: #F5AA28;
+                padding-top: 10px;
+            }
+            
+            @media(max-width:1023px) {
+                .breadcrumb {
+                    width: auto;
+                    font-size: 12px;
+                }
+                .ul_breadcrumb ul {
+                    width: auto;
+                }
+            }
+            
+            @media(max-width:400px) {
+                .breadcrumb {
+                    margin-left: 0px;
+                }
+                .ul_breadcrumb ul {
+                    margin-left: 0px;
+                }
+            }
+            
+            .a_no_deco a {
+                text-decoration: none;
+                color: #303030;
+            }
